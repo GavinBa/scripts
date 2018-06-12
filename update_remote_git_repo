@@ -1,0 +1,7 @@
+cd Local_repo_path
+git fetch
+git fetch upstream
+git checkout master
+git merge upstream/master
+git push
+
