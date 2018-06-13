@@ -1,0 +1,5 @@
+#!/bin/bash
+#TODO sudo check
+sudo apt-get update
+sudo apt-get install apache2 transmission-cli transmission-common transmission-daemon
+
